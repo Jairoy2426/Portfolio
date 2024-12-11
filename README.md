@@ -1,8 +1,7 @@
 
 # Jai Bhagwan Roy Portfolio Website
 
-<h1><a href=""> Click to Check Live</a></h1>
-<img src="assets/Mockup.png"><br>
+<h1><a href="https://jairoy2426.github.io/portfolio/"> Click to Check Live</a></h1>
 
 This repository contains the source code for Jai Bhagwan Roy's personal portfolio website, showcasing projects, skills, and contact information. The website is built with HTML, CSS, and JavaScript.
 
