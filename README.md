@@ -52,7 +52,7 @@ To get a local copy of this project up and running on your machine, follow these
 1. **Clone the repository:**
    
 
-   git clone 
+   git clone https://github.com/Jairoy2426/portfolio
 
 
 3. **Navigate to the project directory:**
@@ -97,9 +97,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 Mahipal Jangra  
-Email: [mukuljangra5@gmail.com](mailto:mukuljangra5@gmail.com)  
-LinkedIn: [Mahipal](https://www.linkedin.com/in/mahipal975/)  
-GitHub: [mukul975](https://github.com/mukul975)  
+Email: [Jairoy2426@gmail.com](mailto:Jairoy2426@gmail.com)  
+LinkedIn: [Jai Roy](https://www.linkedin.com/in/jai-roy-74b178328/)  
+GitHub: [Jairoy2426](https://github.com/Jairoy2426)  
 
 ---
 
